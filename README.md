@@ -1,1 +1,1 @@
-# MachineLearning && NN
+# MachineLearning && Neural Network
